@@ -10,6 +10,11 @@
       "StackName": "amplify-runitback-dev-112914",
       "StackId": "arn:aws:cloudformation:us-east-1:824314581074:stack/amplify-runitback-dev-112914/1c1d9160-645d-11ee-bf57-0a57636c217d",
       "AmplifyAppId": "d35papmmfaat75"
+    },
+    "categories": {
+      "auth": {
+        "runitbackd68293a3": {}
+      }
     }
   }
 }
